@@ -1,0 +1,20 @@
+C:\Users\Ozzy\source\repos\MT68000_Lexer\MT68000_Lexer\obj\Debug\MT68000_Lexer.csprojAssemblyReference.cache
+C:\Users\Ozzy\source\repos\MT68000_Lexer\MT68000_Lexer\obj\Debug\MT68000_Lexer.LexerForm.resources
+C:\Users\Ozzy\source\repos\MT68000_Lexer\MT68000_Lexer\obj\Debug\MT68000_Lexer.Properties.Resources.resources
+C:\Users\Ozzy\source\repos\MT68000_Lexer\MT68000_Lexer\obj\Debug\MT68000_Lexer.csproj.GenerateResource.cache
+C:\Users\Ozzy\source\repos\MT68000_Lexer\MT68000_Lexer\obj\Debug\MT68000_Lexer.csproj.CoreCompileInputs.cache
+C:\Users\Ozzy\source\repos\MT68000_Lexer\MT68000_Lexer\bin\Debug\MT68000_Lexer.exe.config
+C:\Users\Ozzy\source\repos\MT68000_Lexer\MT68000_Lexer\bin\Debug\MT68000_Lexer.exe
+C:\Users\Ozzy\source\repos\MT68000_Lexer\MT68000_Lexer\bin\Debug\MT68000_Lexer.pdb
+C:\Users\Ozzy\source\repos\MT68000_Lexer\MT68000_Lexer\obj\Debug\MT68000_Lexer.exe
+C:\Users\Ozzy\source\repos\MT68000_Lexer\MT68000_Lexer\obj\Debug\MT68000_Lexer.pdb
+C:\Users\Azure\Documents\Visual Studio 2017\Projects\MT68000_Lexer\MT68000_Lexer\MT68000_Lexer\bin\Debug\MT68000_Lexer.exe.config
+C:\Users\Azure\Documents\Visual Studio 2017\Projects\MT68000_Lexer\MT68000_Lexer\MT68000_Lexer\bin\Debug\MT68000_Lexer.exe
+C:\Users\Azure\Documents\Visual Studio 2017\Projects\MT68000_Lexer\MT68000_Lexer\MT68000_Lexer\bin\Debug\MT68000_Lexer.pdb
+C:\Users\Azure\Documents\Visual Studio 2017\Projects\MT68000_Lexer\MT68000_Lexer\MT68000_Lexer\obj\Debug\MT68000_Lexer.csprojAssemblyReference.cache
+C:\Users\Azure\Documents\Visual Studio 2017\Projects\MT68000_Lexer\MT68000_Lexer\MT68000_Lexer\obj\Debug\MT68000_Lexer.LexerForm.resources
+C:\Users\Azure\Documents\Visual Studio 2017\Projects\MT68000_Lexer\MT68000_Lexer\MT68000_Lexer\obj\Debug\MT68000_Lexer.Properties.Resources.resources
+C:\Users\Azure\Documents\Visual Studio 2017\Projects\MT68000_Lexer\MT68000_Lexer\MT68000_Lexer\obj\Debug\MT68000_Lexer.csproj.GenerateResource.cache
+C:\Users\Azure\Documents\Visual Studio 2017\Projects\MT68000_Lexer\MT68000_Lexer\MT68000_Lexer\obj\Debug\MT68000_Lexer.csproj.CoreCompileInputs.cache
+C:\Users\Azure\Documents\Visual Studio 2017\Projects\MT68000_Lexer\MT68000_Lexer\MT68000_Lexer\obj\Debug\MT68000_Lexer.exe
+C:\Users\Azure\Documents\Visual Studio 2017\Projects\MT68000_Lexer\MT68000_Lexer\MT68000_Lexer\obj\Debug\MT68000_Lexer.pdb
